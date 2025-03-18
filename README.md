@@ -11,9 +11,11 @@ A simple React application demonstrating Google OAuth authentication.
 ##### 🖼️ Screenshots
 
 Sign in with Google.
+
 <img src="src/assets/images/signin.png" alt="Sign In" width="300">
 
 Sign in with an email.
+
 <img src="src/assets/images/email-login.png" alt="Login in with email" width="300">
 
 ##### 🛠️ Setup
