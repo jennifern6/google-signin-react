@@ -11,7 +11,8 @@ const App = () => {
     <GoogleOAuthProvider clientId="Y897075902683-hhamaglgrp65v3gfrgajsp6bckhdvhia.apps.googleusercontent.com">
       <div className="App_container">
         <div className="App">
-          <h2>Jen's Google OAuth Demo</h2>
+          <h1>Jen's</h1>
+          <h2>Google OAuth Demo 🍔</h2>
           <GoogleLogin onSuccess={responseGoogle} onError={responseGoogle} />
         </div>
       </div>

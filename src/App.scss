@@ -1,3 +1,6 @@
+@import "./styles/partials/global";
+
+
 .App_container {
   margin-top: 10rem;
   display: flex;
@@ -9,4 +12,8 @@
   text-align: center;
   width: 500px;
   align-items: center;
+}
+
+h2 {
+  margin-bottom: 1.5rem;
 }
