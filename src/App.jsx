@@ -8,7 +8,7 @@ const App = () => {
   };
 
   return (
-    <GoogleOAuthProvider clientId="Y897075902683-hhamaglgrp65v3gfrgajsp6bckhdvhia.apps.googleusercontent.com">
+    <GoogleOAuthProvider clientId="897075902683-hhamaglgrp65v3gfrgajsp6bckhdvhia.apps.googleusercontent.com">
       <div className="App_container">
         <div className="App">
           <h1>Jen's</h1>
